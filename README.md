@@ -1,0 +1,2 @@
+# High-performance-Cryptocurrency-Matching-Engine-
+This project is a High-Performance Cryptocurrency Matching Engine designed for speed and absolute fairness. Our architecture is the Decoupled Asynchronous Model."  Fairness: Achieved by a single-threaded core that guarantees Price-Time Priority.  Speed: Achieved by using WebSockets and asynchronous I/O to isolate the core from slow network traffic.
